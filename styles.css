@@ -1,0 +1,99 @@
+html {
+    background-color: rgb(193, 93, 90 );
+}
+.header {
+    text-align: center;
+}
+h1 {
+    font-family: 'Rubik', sans-serif;
+}
+#sub-head  {
+    font-family: 'Merriweather', serif;    
+}
+#sub-sub-head {
+    font-family: 'Merriweather', serif;
+    line-height: 3;
+}
+#table-head {
+    background-color: rgba(60, 100, 150, 75%);
+    border: 3px solid rgb(50, 50, 50);
+}
+#table-sub-head {
+    background-color: rgba(80, 120, 170, 75%);
+    border: 3px solid rgb(50, 50, 50);
+}
+#table-sub-sub-head {
+    background-color: rgba(100, 140, 190, 75%);
+    border: 3px solid rgb(50, 50, 50);
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Merienda', cursive;
+}
+h3 {
+    text-align: center;
+    font-family:'Merienda', cursive;
+}
+ .html-table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 100%;
+    padding: auto;
+    max-width: 100%;
+
+}
+.css-table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 100%;
+   
+    max-width: 100%;
+}
+
+.js-table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 100%;
+    padding: auto;
+    max-width: 100%;
+}
+
+th {
+    padding: 5px; 
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    border: 3px solid rgb(50, 50, 50);
+}
+#html-data {
+    padding: 10px;
+    line-height: 1.2;
+    font-family: 'Merriweather', serif;
+    border: 3px solid rgb(50, 50, 50);
+    
+
+} 
+#css-data {
+    padding: 10px;
+    line-height: 1.4; 
+    font-family: 'Merriweather', serif;
+    border: 3px solid rgb(50, 50, 50);
+    width: 20%;
+    max-width: 20%;
+}
+#css-head{
+    background-color: rgba(80, 220, 10, 75%);
+}
+#css-sub-head {
+    background-color: rgba(120, 220, 50, 75%);
+}
+#css-third-head {
+    background-color: rgba(160, 220, 90, 75%); 
+}
+#css-fourth-head {
+    background-color: rgba(200, 220, 130, 75%);
+}
+#css-fifth-head {
+    background-color: rgba(240, 220, 170, 75%);
+}
